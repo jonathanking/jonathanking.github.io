@@ -16,6 +16,7 @@ gems:
 
 #Others
 markdown: kramdown
+  input: GFM
 highlighter: rouge
-input: GFM
+
   # syntax_highlighter: rouge
