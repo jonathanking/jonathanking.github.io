@@ -2,7 +2,6 @@
 title:        Jonathan King
 tagline:      Student Programmer
 baseurl:      ""
-url:          http://jonathanking.github.io
 paginate:     1
 
 # About/contact
@@ -10,13 +9,17 @@ author:
   name:       Jonathan King
   url:        jonathanking@berkeley.edu
 
+# github:
+#   url:      http://jonathanking.github.io
+
 # Gems
 gems:
   - jekyll-paginate
 
 #Others
-markdown: kramdown
-input: GFM
+# markdown: kramdown
+kramdown:
+  input: GFM
 highlighter: rouge
 
   # syntax_highlighter: rouge
