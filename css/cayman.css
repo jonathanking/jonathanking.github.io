@@ -112,7 +112,7 @@ a {
   background-image: linear-gradient(120deg, #155799, #159957); }
   @media screen and (min-width: 64em) {
     .front-page-header {
-      padding: 1rem 6rem; } }
+      padding: 4rem 6rem; } }
   @media screen and (min-width: 42em) and (max-width: 64em) {
     .front-page-header {
       padding: 3rem 4rem; } }
@@ -121,8 +121,11 @@ a {
       padding: 2rem 1rem; } }
 
 .project-name {
+  display: inline;
   margin-top: 0;
-  margin-bottom: 0.5rem; }
+  margin-bottom: 0.5rem;
+  margin-right: 1.2rem;
+  margin-left: 0; }
   @media screen and (min-width: 64em) {
     .project-name {
       font-size: 1.625rem; } }
@@ -324,3 +327,14 @@ a {
 
 .site-footer-credits {
   color: #819198; }
+
+img[alt=myface] {
+  max-width:  320px; 
+  display: block;
+  margin-bottom: .2rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  float: left;
+  clear: both;
+  position: relative;
+}

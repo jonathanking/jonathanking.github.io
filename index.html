@@ -2,9 +2,10 @@
 layout: front
 title: {{ site.name }}
 ---
-
-{% capture sidebar %}{% include aboutme.md %}{% endcapture %}
-{{ sidebar | markdownify }}
+<div>
+{% capture about %}{% include aboutme.md %}{% endcapture %}
+{{ about | markdownify }}
+</div>
 
 
 <div id="home">
@@ -12,8 +13,8 @@ title: {{ site.name }}
 
   <ul class="posts">
     {% for post in site.posts %}
-      <h2><div class="underlined">{{ post.date | date_to_string }}<!-- </div> --> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></div></h2>
-      {{ post.content }}
+      <h2><div class="underlined">{{ post.date | date_to_string }} &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></div></h2>
+      {{ post.excerpt }} 
     {% endfor %}
   </ul>
 </div>

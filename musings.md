@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Just For Fun
+title: Musings
 ---
 
 # This is just for fun.
