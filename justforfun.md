@@ -3,4 +3,4 @@ layout: default
 title: Just For Fun
 ---
 
-#This is just for fun.
+# This is just for fun.

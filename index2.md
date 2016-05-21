@@ -3,7 +3,7 @@ layout: front
 title: {{ site.name }}
 ---
 
-#About Me
+# About Me
 
 <div id="home">
   <h2>Blog Posts</h2>

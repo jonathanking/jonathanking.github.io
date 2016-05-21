@@ -3,8 +3,8 @@ layout: default
 title: Jonathan King Resume
 ---
 
-#Resume
+# Resume
 
-##Education
+## Education
 
 *University of California at Berkeley*

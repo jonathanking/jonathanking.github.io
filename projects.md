@@ -3,6 +3,6 @@ layout: default
 title: JK Projects
 ---
 
-#Selected Projects
+# Selected Projects
 
-##High-Frequency Bitcoin Trading
+## High-Frequency Bitcoin Trading
