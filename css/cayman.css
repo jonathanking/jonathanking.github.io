@@ -25,6 +25,7 @@ a {
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
+  margin-top: 1rem;
   color: rgba(255, 255, 255, 0.7);
   background-color: rgba(255, 255, 255, 0.08);
   border-color: rgba(255, 255, 255, 0.2);
@@ -41,7 +42,7 @@ a {
     margin-left: 1rem; }
   @media screen and (min-width: 64em) {
     .btn {
-      padding: 0.75rem 1rem; } }
+      padding: 0.75rem 1.5rem; } }
   @media screen and (min-width: 42em) and (max-width: 64em) {
     .btn {
       padding: 0.6rem 0.2rem;
@@ -150,6 +151,11 @@ a {
     .project-tagline {
       font-size: 0.5rem; } }
 
+
+.front-project-text {
+  margin-top: .3rem;
+  /*float: left;*/
+}
 
 .front-project-name {
   margin-top: 0;

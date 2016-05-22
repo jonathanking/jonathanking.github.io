@@ -8,34 +8,6 @@ You can preview the theme at http://jasonlong.github.io/cayman-theme or with rea
 
 ![](http://cl.ly/image/1T3r3d18311V/content)
 
-# How to use it?
-
-Download the theme @ http://github.com/pietromenna/jekyll-cayman-theme/archive/master.zip
-
-Unzip it and use it as a regular jekyll folder.
-
-```
-$ unzip master.zip
-```
-
-Get inside the newly extracted folder
-```
-$ cd jekyll-cayman-theme
-```
-
-Get the required gems
-```
-$ bundle install
-```
-
-Use it!
-
-```
-$ jekyll serve
-```
-
-For more details read about [Jekyll][1] on its web page.
-
 # Setup
 
 Some important configuration can be done in the file `_config.yml`. Please, check the Setup section in that file.
