@@ -161,7 +161,7 @@ a {
       font-size: 1.125rem; } }
   @media screen and (max-width: 42em) {
     .project-name {
-      font-size: 0.875rem; } }
+      font-size: 1rem; } }
 
 .project-tagline {
   margin-bottom: 2rem;
@@ -185,7 +185,7 @@ a {
 
 .front-project-name {
   margin-top: 0;
-  margin-bottom: 0.1rem; }
+  margin-bottom: 1rem; }
   @media screen and (min-width: 64em) {
     .front-project-name {
       font-size: 3.25rem; } }
