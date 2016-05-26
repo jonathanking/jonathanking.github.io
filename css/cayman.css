@@ -1,6 +1,21 @@
 * {
   box-sizing: border-box; }
 
+:root {
+  --red: #b00;
+  --blue: #4679bd;
+  --grad1: #0b8793; 
+  --grad2: #360033;
+  --textColor: #7b39a2;
+  /* Cayman Theme */
+  /*--grad1: #155799; 
+  --grad2: #159957;
+  --textColor: #159957;*/
+  --grey: #ddd;
+  --W200: 200px;
+  --Lft: left;
+}
+
 body {
   padding: 0;
   margin: 0;
@@ -94,8 +109,12 @@ a {
 .page-header {
   color: #fff;
   text-align: left;
-  background-color: #159957;
-  background-image: linear-gradient(120deg, #155799, #159957); }
+
+  background-color: var(--grad1);  /*fallback for old browsers */
+  background-image: -webkit-linear-gradient(to left, var(--grad1) , var(--grad2)); /* Chrome 10-25, Safari 5.1-6 */
+  background-image: linear-gradient(120deg, var(--grad1) , var(--grad2));  /*W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  }      
+
   @media screen and (min-width: 64em) {
     .page-header {
       padding: 1rem 6rem; } }
@@ -109,8 +128,15 @@ a {
 .front-page-header {
   color: #fff;
   text-align: center;
-  background-color: #159957;
-  background-image: linear-gradient(120deg, #155799, #159957); }
+
+
+  background-color: var(--grad1);  /*fallback for old browsers */
+  background-image: -webkit-linear-gradient(to left, var(--grad1) , var(--grad2)); /* Chrome 10-25, Safari 5.1-6 */
+  background-image: linear-gradient(120deg, var(--grad1) , var(--grad2));  /*W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ 
+        
+  /*background-color: #159957;*/
+  /*background-image: linear-gradient(120deg, #155799, #159957); }*/
+}
   @media screen and (min-width: 64em) {
     .front-page-header {
       padding: 4rem 6rem; } }
@@ -214,7 +240,8 @@ a {
     margin-top: 2rem;
     margin-bottom: 1rem;
     font-weight: normal;
-    color: #159957; }
+    color: var(--textColor);
+  }
   .main-content p {
     margin-bottom: 1em; }
   .main-content code {
@@ -223,6 +250,8 @@ a {
     font-size: 0.9rem;
     color: #567482;
     background-color: #f3f6fa;
+    /*color: #fff;*/
+    /*background-color: #2d2d2e;*/
     border-radius: 0.3rem; }
   .main-content pre {
     padding: 0.8rem;
@@ -232,6 +261,8 @@ a {
     color: #567482;
     word-wrap: normal;
     background-color: #f3f6fa;
+    /*color: #ffffff;*/
+    /*background-color: #666666; #2d2d2e; */
     border: solid 1px #dce6f0;
     border-radius: 0.3rem; }
     .main-content pre > code {
@@ -239,6 +270,7 @@ a {
       margin: 0;
       font-size: 0.9rem;
       color: #567482;
+      /*color: #ffffff;*/
       word-break: normal;
       white-space: pre;
       background: transparent;
@@ -337,10 +369,12 @@ a {
 img[alt=myface] {
   max-width:  320px; 
   display: block;
-  margin-bottom: .2rem;
+  margin-bottom: 0rem;
   margin-left: 1rem;
-  margin-right: 1rem;
+  margin-right: 2rem;
   float: left;
   clear: both;
   position: relative;
+  overflow: hidden;
+  text-align: left;
 }
