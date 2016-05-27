@@ -1,4 +1,6 @@
-# About me
+<br>
+
+# About
 ![myface](/images/headshot.jpg)
 
 <!-- <br style="margin-top: 1px; display: block; margin: 10px 0;"> -->

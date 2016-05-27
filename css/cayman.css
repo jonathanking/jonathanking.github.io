@@ -346,6 +346,8 @@ a {
     border: 0; }
 
 .site-footer {
+  display: block;
+  text-align: center;
   padding-top: 2rem;
   margin-top: 2rem;
   border-top: solid 1px #eff0f1; }
@@ -359,22 +361,36 @@ a {
     .site-footer {
       font-size: 0.75rem; } }
 
-.site-footer-owner {
+.site-footer-contact {
   display: block;
-  font-weight: bold; }
+  text-align: center; 
+  font-size: 1.35em;}
 
 .site-footer-credits {
   color: #819198; }
 
 img[alt=myface] {
-  max-width:  320px; 
+  
   display: block;
   margin-bottom: 0rem;
-  margin-left: 1rem;
-  margin-right: 2rem;
   float: left;
   clear: both;
   position: relative;
   overflow: hidden;
-  text-align: left;
+  text-align: left; }
+  @media screen and (min-width: 64em) {
+    img[alt=myface] {
+        max-width:  310px; 
+        margin-left: 1.7rem;
+        margin-right: 2.65rem; } }
+  @media screen and (min-width: 42em) and (max-width: 64em) {
+    img[alt=myface] {
+        max-width:  270px; 
+        margin-left: 0rem;
+        margin-right: 1rem; } }
+  @media screen and (max-width: 42em) {
+    img[alt=myface] {
+        max-width:  240px; 
+        margin-left: 0rem;
+        margin-right: 1rem; } }
 }
