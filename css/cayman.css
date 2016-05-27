@@ -180,7 +180,6 @@ a {
 
 .front-project-text {
   margin-top: .3rem;
-  /*float: left;*/
 }
 
 .front-project-name {
@@ -243,7 +242,7 @@ a {
     color: var(--textColor);
   }
   .main-content p {
-    margin-bottom: 1em; }
+    margin-bottom: 1em;  }
   .main-content code {
     padding: 2px 4px;
     font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
@@ -350,7 +349,7 @@ a {
   text-align: center;
   padding-top: 2rem;
   margin-top: 2rem;
-  border-top: solid 1px #eff0f1; }
+  }
   @media screen and (min-width: 64em) {
     .site-footer {
       font-size: .85rem; } }
@@ -394,4 +393,13 @@ img[alt=myface] {
         max-width:  240px; 
         margin-left: 0rem;
         margin-right: 1rem; } }
+}
+
+img[alt=tandem] {
+  /*display: block;*/
+  margin-top: 3px;
+  /*float: left;*/
+  /*width: 30px;*/
+  /*max-height: 200px;*/
+  /*text-align: left;*/
 }
