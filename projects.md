@@ -20,7 +20,8 @@ Using Long short-term memory (LSTM) based networks to forecast cardiac arrest ev
 
 To be presented at [IEEE Engineering in Medicine & Biology 2018](https://embs.papercept.net/conferences/conferences/EMBC18/program/EMBC18_ContentListWeb_4.html). Contributed as a member of the Hu Lab at USCF between Dec 2016 and Aug 2017.
 
-<br/>
+[PDF](/files/hu_lab_report.pdf)
+
 
 
 
@@ -32,7 +33,7 @@ To be presented at [IEEE Engineering in Medicine & Biology 2018](https://embs.pa
 
 A model of infectious agents on a grid with parameters obtained from the World Health Organization studies the effects of different parameters on disease spread.
 
-[GitHub](https://github.com/jonathanking/ebola-agents)
+[GitHub](https://github.com/jonathanking/ebola-agents), [PDF](https://github.com/jonathanking/ebola-agents/raw/master/CSMProject_King_Frisby_Francoeur.pdf)
 
 <br/>
 <br/>
