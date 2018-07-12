@@ -4,6 +4,39 @@ title: JK Projects
 ---
 # Selected Projects
 
+## Predicting Cardiac Arrest Events with Recurrent Neural Networks
+
+<div style="text-align: center; font-size:60%; float: right;margin: 0px 0px 0px 15px;">
+<!-- <a href="http://google.com.au/" rel="some text"> ![Foo](/images/codeblue.jpg]</a> -->
+<!-- <img alt="code blue alarms" src="/images/codeblue.jpg" width="350px"/> -->
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/27390164">
+  <img src="/images/codeblue.jpg" alt="Is the Sequence of SuperAlarm Triggers More Predictive Than Sequence of the Currently Utilized Patient Monitor Alarms?" style="width:350px;">
+</a>
+<br/>
+Previous work by Bai et al. IEEE Trans Biomed Eng. (2017) 
+</div>
+
+Using Long short-term memory (LSTM) based networks to forecast cardiac arrest events based on streaming bedside alarm data in intensive care units.
+
+To be presented at [IEEE Engineering in Medicine & Biology 2018](https://embs.papercept.net/conferences/conferences/EMBC18/program/EMBC18_ContentListWeb_4.html). Contributed as a member of the Hu Lab at USCF between Dec 2016 and Aug 2017.
+
+<br/>
+
+
+
+## Agent-Based Modeling of Ebola Epidemic
+
+<div style="text-align: center; float: left;">
+<img alt="ebola" src="/images/csm_project.gif" width="300px"/>
+</div>
+
+A model of infectious agents on a grid with parameters obtained from the World Health Organization studies the effects of different parameters on disease spread.
+
+[GitHub](https://github.com/jonathanking/ebola-agents)
+
+<br/>
+<br/>
+
 ## Genetic Variant Detection Software
 
 <div style="text-align: center; float: right; margin: 0px 0px 0px 15px;">
