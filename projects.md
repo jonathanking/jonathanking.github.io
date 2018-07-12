@@ -4,6 +4,20 @@ title: JK Projects
 ---
 # Selected Projects
 
+## Protein Structure Prediction via Neural Machine Translation
+
+<div style="text-align: center; font-size:60%; float: left;margin: 0px 15px 15px 15px;">
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/27390164">
+  <img src="/images/struct.png" alt="" style="width:300px;">
+</a>
+</div>
+
+I am currently developing a machine learning model capable of predicting the 3D atomic coordinates of a protein structure from its sequence alone. Publication forthcoming.
+
+<br/>
+<br/>
+<br/>
+
 ## Predicting Cardiac Arrest Events with Recurrent Neural Networks
 
 <div style="text-align: center; font-size:60%; float: right;margin: 0px 0px 0px 15px;">
