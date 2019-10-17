@@ -10,13 +10,24 @@ title: JK Projects
 <img src="./images/struct.png" alt="" style="width:300px;">
 </div>
 
-I am currently developing a machine learning model to predict the 3D atomic coordinates of a protein from its sequence of amino acids.
+I am currently developing an attention-based machine learning model to predict the 3D atomic coordinates of a protein from its sequence of amino acids. 
 
 [Github](https://github.com/jonathanking/protein-transformer)
 
 <br/>
 <br/>
 <br/>
+
+## instaGAN: De Novo Food Blogging with Generative Adversarial Networks
+
+<div style="text-align: center; font-size:60%; float: center;margin: 0px 0px 0px 15px;">
+  <img src="./images/instagan.jpg" alt="Example generated food posts with captions." style="width:600px;">
+</div>
+
+Developed a method to generate instagram food photos with a GAN and then caption the photos with a RNN. 
+
+[Github](https://github.com/jonathanking/instaGAN_captioner), [Report](/files/instagan.pdf)
+
 
 ## Predicting Cardiac Arrest Events with Recurrent Neural Networks
 
@@ -32,18 +43,7 @@ Using Long short-term memory (LSTM) based networks to forecast cardiac arrest ev
 
 Presented at [IEEE Engineering in Medicine & Biology 2018](https://embs.papercept.net/conferences/conferences/EMBC18/program/EMBC18_ContentListWeb_4.html). Contributed as a member of the Hu Lab at USCF between Dec 2016 and Aug 2017.
 
-[PDF](/files/hu_lab_report.pdf)
-
-
-## instaGAN: De Novo Food Blogging with Generative Adversarial Networks
-
-<div style="text-align: center; font-size:60%; float: center;margin: 0px 0px 0px 15px;">
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/27390164">
-  <img src="./images/instagan.jpg" alt="Example generated food posts with captions." style="width:600px;">
-</a>
-</div>
-
-Developed a method to generate instagram food photos with a GAN and then caption the photos with a RNN. View the report [here](/files/instagan.pdf)
+[Report](/files/hu_lab_report.pdf)
 
 
 ## Agent-Based Modeling of Ebola Epidemic
@@ -54,7 +54,7 @@ Developed a method to generate instagram food photos with a GAN and then caption
 
 A model of infectious agents on a grid with parameters obtained from the World Health Organization studies the effects of different parameters on disease spread.
 
-[GitHub](https://github.com/jonathanking/ebola-agents), [PDF](https://github.com/jonathanking/ebola-agents/raw/master/CSMProject_King_Frisby_Francoeur.pdf)
+[GitHub](https://github.com/jonathanking/ebola-agents), [Report](https://github.com/jonathanking/ebola-agents/raw/master/CSMProject_King_Frisby_Francoeur.pdf)
 
 <br/>
 <br/>
