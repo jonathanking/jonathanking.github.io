@@ -9,8 +9,7 @@ title: JK Publications
 
 2. Sunseri, J., **King, J.E.**, Francoeur, P.G. et al. “Convolutional neural network scoring and minimization in the D3R 2017 community challenge”. _Journal of Computer-Aided Molecular Design_ (2018). [Source](https://doi.org/10.1007/s10822-018-0133-y).
 
-1. Ran Xiao, **Jonathan King**, Andrea Villaroman, Duc H. Do, Noel G. Boyle and Xiao Hu, Senior Member, IEEE.  
-"Predict In-Hospital Code Blue Events using Monitor Alarms through Deep Learning Approach". _IEEE Engineering in Medicine and Biology Society Proceedings_ (2018). [Source](https://doi.org/10.1109/EMBC.2018.8513269).
+1. Ran Xiao, **Jonathan King**, Andrea Villaroman, Duc H. Do, Noel G. Boyle and Xiao Hu, Senior Member, IEEE.  "Predict In-Hospital Code Blue Events using Monitor Alarms through Deep Learning Approach". _IEEE Engineering in Medicine and Biology Society Proceedings_ (2018). [Source](https://doi.org/10.1109/EMBC.2018.8513269).
 
 
 ## Presentations  
@@ -24,7 +23,6 @@ title: JK Publications
 3. **Jonathan King**. 
 “A Novel Algorithm for Detecting FLT3 Internal Tandem Duplications in Patients With Acute Myeloid Leukemia”. **Best Presentation.** _Northern California Computational Biology Student Symposium_ (2016). [Source](/files/nccb.pdf). 
 
-### Presentations  (Advised)
 2. Jackelyne Garcia Cruz, **Jonathan King**. “Screening and Simulating Potential Inhibitors for the CYP4F2 Enzyme”. 
   - *Summer Undergraduate Research Symposium, Duquesne University* (2019).
   - *Annual Biomedical Research Conference for Minority Students* (2019).
