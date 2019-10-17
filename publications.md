@@ -5,9 +5,9 @@ title: JK Publications
 <br/>
 
 ## Papers
-1. Koes, D., **King, J. E.**, Francoeur, P. G., Kowalczyk, A., Rajashekar, S., Chennubhotla, C. “DREAMing of big data and scalable machine learning: Predicting kinase binding with matrix factorization”. *Abstracts of Papers of the American Chemical Society* (2019).
+1. David Koes, **Jonathan King**, Paul Francoeur, et al. “DREAMing of big data and scalable machine learning: Predicting kinase binding with matrix factorization”. *Abstracts of Papers of the American Chemical Society* (2019).
 
-2. Sunseri, J., **King, J.E.**, Francoeur, P.G. et al. “Convolutional neural network scoring and minimization in the D3R 2017 community challenge”. _Journal of Computer-Aided Molecular Design_ (2018). [Source](https://doi.org/10.1007/s10822-018-0133-y).
+2. Jocelyn Sunseri, **Jonathan King**, Paul Francoeur, et al. “Convolutional neural network scoring and minimization in the D3R 2017 community challenge”. _Journal of Computer-Aided Molecular Design_ (2018). [Source](https://doi.org/10.1007/s10822-018-0133-y).
 
 1. Ran Xiao, **Jonathan King**, Andrea Villaroman, Duc H. Do, Noel G. Boyle and Xiao Hu, Senior Member, IEEE.  "Predict In-Hospital Code Blue Events using Monitor Alarms through Deep Learning Approach". _IEEE Engineering in Medicine and Biology Society Proceedings_ (2018). [Source](https://doi.org/10.1109/EMBC.2018.8513269).
 
