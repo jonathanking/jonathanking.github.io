@@ -18,7 +18,7 @@ I am currently developing a machine learning model to predict the 3D atomic coor
 
 ## Predicting Cardiac Arrest Events with Recurrent Neural Networks
 
-<div style="text-align: center; font-size:60%; float: right;margin: 0px 0px 0px 15px;">
+<div style="text-align: center; font-size:60%; float: center;margin: 0px 0px 0px 15px;">
 <a href="https://www.ncbi.nlm.nih.gov/pubmed/27390164">
   <img src="/images/codeblue.jpg" alt="Is the Sequence of SuperAlarm Triggers More Predictive Than Sequence of the Currently Utilized Patient Monitor Alarms?" style="width:350px;">
 </a>
